@@ -1,0 +1,35 @@
+Requestly/*
+AI Social Media Content Generation & Management To 378a530d042a814bbf61edce0e615cd0.md
+CLAUDE.md
+SLICES.md
+ReactBits.md
+
+# --- frontend ---
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+frontend/tsconfig.tsbuildinfo
+frontend/npm-debug.log*
+
+# --- backend ---
+backend/node_modules/
+backend/.env
+backend/.env.*.local
+backend/public/videos/*
+!backend/public/videos/.gitkeep
+backend/npm-debug.log*
+
+# --- MoneyPrinterTurbo ---
+MoneyPrinterTurbo/config.toml
+MoneyPrinterTurbo/.env
+MoneyPrinterTurbo/storage/
+MoneyPrinterTurbo/__pycache__/
+MoneyPrinterTurbo/**/__pycache__/
+MoneyPrinterTurbo/.venv/
+MoneyPrinterTurbo/venv/
+MoneyPrinterTurbo/*.log
+
+
